@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    background-color: rgb(117, 165, 253);
+    background-image: url(c:/BooleanDevelopement/html-css-booleaner/img/pattern.png);
+}
+header > img{
+    padding-top: 30px;
+    width: 150px;
+}
+
+#author{
+    color: rgb(117, 165, 253);
+}
+.photo-description{
+    font-size: 10px;
+}
+.highlight{
+    background-color: yellow;
+}
+
+table{
+    
+}
+thead{
+    text-align: left;
+    color: white;
+}
+.column{
+    width: 300px;
+}
+.last-column{
+    width: 600px;
+}
+.head-row{
+    background-color: rgb(117, 165, 253);
+}
+
+.odd-row{
+    background-color: rgb(188, 233, 255);
+}
