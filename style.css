@@ -3,13 +3,17 @@
 }
 header{
     background-color: rgb(117, 165, 253);
-    background-image: url(c:/BooleanDevelopement/html-css-booleaner/img/pattern.png);
+    background-image: url(img/pattern.png);
+    background-size: contain;
 }
 header > img{
     padding-top: 30px;
     width: 150px;
 }
 
+#title{
+    margin-bottom: 2px;
+}
 #author{
     color: rgb(117, 165, 253);
 }
@@ -39,4 +43,28 @@ thead{
 
 .odd-row{
     background-color: rgb(188, 233, 255);
+}
+
+#footer-title{
+    color: grey;
+}
+
+.article{
+    width: 250px;
+    height: 150px;
+}
+.article-title{
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+}
+
+.monitor{
+    background-image: url(img/monitor.jpg);
+    background-size: cover;
+}
+.graph{
+    background-image: url(img/graph.jpg);
+    background-size: cover;
 }
