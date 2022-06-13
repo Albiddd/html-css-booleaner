@@ -24,13 +24,11 @@ header > img{
     background-color: yellow;
 }
 
-table{
-    
-}
 thead{
     text-align: left;
     color: white;
 }
+
 .column{
     width: 300px;
 }
