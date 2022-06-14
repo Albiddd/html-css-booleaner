@@ -67,8 +67,9 @@ thead{
 
 .article{
     width: 250px;
-    height: 150px;
+    height: 180px;
     margin-bottom: 10px;
+    background-size: cover;
 }
 .article-title{
     font-weight: 600;
@@ -78,10 +79,8 @@ thead{
 }
 
 .monitor{
-    background-image: url(../img/monitor.jpg);
-    background-size: cover;
+    background-image: url(../img/monitor.jpg);   
 }
 .graph{
-    background-image: url(../img/graph.jpg);
-    background-size: cover;
+    background-image: url(../img/graph.jpg);    
 }
