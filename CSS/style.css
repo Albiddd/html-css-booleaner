@@ -26,6 +26,7 @@ header > img{
 
 #author{
     color: rgb(117, 165, 253);
+    text-decoration: none;
 }
 #date{
     font-size: 10px;
