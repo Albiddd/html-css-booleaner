@@ -10,7 +10,7 @@ body{
 header{
     background-color: rgb(117, 165, 253);
     background-image: url(../img/pattern.png);
-    background-size: contain;
+    background-size: 300px;
 }
 header > img{
     padding-top: 30px;
@@ -63,6 +63,7 @@ thead{
 .article{
     width: 250px;
     height: 150px;
+    margin-bottom: 10px;
 }
 .article-title{
     font-weight: 600;
