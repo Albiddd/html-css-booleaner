@@ -37,6 +37,10 @@ header > img{
 .highlight{
     background-color: yellow;
 }
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
 
 thead{
     text-align: left;
@@ -44,10 +48,10 @@ thead{
 }
 
 .column{
-    width: 300px;
+    width: 25%;
 }
 .last-column{
-    width: 600px;
+    width: 50%;
 }
 .head-row{
     background-color: rgb(117, 165, 253);
